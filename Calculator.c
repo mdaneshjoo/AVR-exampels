@@ -2,7 +2,7 @@
  * GccApplication2.c
  *
  * Created: 23/10/2018 07:30:18 ب.ظ
- * Author : SAJJAD
+ * 
  */ 
 #include <avr/io.h>
 
